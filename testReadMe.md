@@ -2,7 +2,7 @@
 
 # read me
 
-creates read me
+for my read me
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -25,7 +25,7 @@ n/a
 
 ## Tests
 
-n/a
+test
 
 ## License
 
