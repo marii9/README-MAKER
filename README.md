@@ -6,6 +6,9 @@ The generateMarkdown.js file takes in the user's responses from index.js and gen
 The renderLicenseBadge and renderLicenseSection functions create the markdown for the License and License Badge sections respectively. 
 The generateMarkdown function puts all the user's responses and the output from the helper functions into the final markdown format for the README file.
 
+## Install
+Must have node.js and inquirer for the application to run.
+
 ## User Story 
 
 AS A developer
